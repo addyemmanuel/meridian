@@ -30,7 +30,7 @@ function Overview() {
   return (
     <div className="mx-auto max-w-6xl px-8 py-8">
       <p className="font-mono text-[11px] uppercase tracking-wider text-muted-foreground">ICP · {account.icp}</p>
-      <h1 className="mt-1 text-3xl font-semibold">Good evening, Emmanuel</h1>
+      <h1 className="mt-1 text-3xl font-semibold">Good Day, Miracle</h1>
       <p className="mt-1 text-sm text-muted-foreground">Here's what changed in <span className="text-foreground">{account.name}</span> this week.</p>
 
       <div className="mt-8 grid grid-cols-2 gap-4 lg:grid-cols-4">
